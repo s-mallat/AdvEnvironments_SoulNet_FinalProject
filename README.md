@@ -44,9 +44,9 @@ The creation of all materials and particle systems consisted of a rigirous proce
 
 <img width="1792" alt="Screenshot 2022-06-21 at 1 40 35 pm" src="https://user-images.githubusercontent.com/92052904/174801382-205b8be3-a922-44e6-8022-613a2c4dcd51.png">
 
-> Niagara Particle Systems
+> Niagara Particle Systems + Dynamic Materials
 
-(Image of particle system, material blueprints)
+![unrealmaterialparticle](https://user-images.githubusercontent.com/92052904/174805896-0c1a96e0-83e4-4625-a94b-5a292870e588.jpg)
 
 Moving on to the physical part of the installation, I was responsible for designing and building the hand stations, as well as designing the structure of the wiring from laptop and projector to six different stations. The overall design of the stations went through different iteratives stages while building upon the idea of affordances and the relationship between the stations and the users, as well as how effective the physical design is at communicating the project goals. 
 
