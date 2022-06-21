@@ -28,7 +28,14 @@ For the final iteration of this installation, I was involved in both the physica
 
 As our game had only one camera angle / perspective, I wanted to add a layer dimensionality to an otherwise flat two-dimensional world. To delve slightly deeper into the technical side of things, I would say the biggest game changer for the graphics of the game was the introduction of the dynamic trail or the dynamic ribbon system. Through various iterations and after numerous tutorials on particle systems, creating and merging materials, I was able to create dynamic materials that animate overtime to avoid a static and flat look. The trail is an example of that dimensionality and dynamic design as it is constantly shifting, animating, and gracefully flowing around the space the longer the user engages with the installation. 
 
-(Image of tail longest one I can find)
+<img width="1741" alt="Screenshot 2022-06-21 at 12 55 26 pm" src="https://user-images.githubusercontent.com/92052904/174793451-44e97401-7c14-4c90-8efb-3abc0cca33f1.png">
+
+<img width="1735" alt="Screenshot 2022-06-21 at 12 55 36 pm" src="https://user-images.githubusercontent.com/92052904/174793465-671bdfd7-f6c1-4446-b8fe-bf0c71dfd752.png">
+
+<img width="1752" alt="Screenshot 2022-06-21 at 12 55 47 pm" src="https://user-images.githubusercontent.com/92052904/174793474-351d442f-4cc3-407c-ab83-fcaae919bbe3.png">
+
+![Screenshot 2022-06-21 at 12 55 09 pm](https://user-images.githubusercontent.com/92052904/174793676-4039077a-27c4-4ac8-b4c4-295d10bad6ef.png)
+
 
 The creation of all materials and particle systems consisted of a rigirous process of layering different textures, materials on top of other materials, and merging multiple particle systems to create the effects needed. The challenge in this part was twofolds, the first was the memory issues and making sure that the overall project files don't exceed a certain size since this is a multi-faceded project with many layers. This was an issue for us mostly because all team members owned a macbook with exception to one person who operated a windows machine. Furthermore, the memory restraint affected my decisions on what kind of game objects to model, how many faces and vertices they have and how to best animate them in Blender. The second challenge was getting the files to load and compile correctly on different machines. I originally used many materials from the epic games marketplace but quickly had to remove all of them and replace them with starter content textures and build my own materials on top of them to make the migration process smoother and avoid running into issues later on.
 
