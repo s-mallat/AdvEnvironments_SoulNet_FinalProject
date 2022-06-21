@@ -51,4 +51,14 @@ Moving on to the physical part of the installation, I was responsible for design
 
 The elements of the stations were created using plywood carved out using the laser cutter and the hemispheres created through 3D printing. The decision to make the stations close to the group in terms of height was made for conceptual and practical reasons. I envisioned the stations as flexible pieces that we can easily move around to accommodate the small space at the show, and with the limited budget and resources we had, the decision to make short stations was a more logical one and added more to the conceptual aspect of giving up comfort for virtual exploration. The simple choice of making shorter stations is one example of many of the thought process behind the design. This is because we needed the users to understand that these are hand stations not foot station for instance. Therefore we added five different touch points instead of a singular big one inside the hemispheres to lead the user to bend over and use their hands to activate the installation. Creating the stations made me think and appreciate the effort that goes into creating so many cool gadgets around us where we don't even see the inner workings or wiring. Lastly, the conceptual storyline for the project needed to be narrated in element of the project from the virtual to the physical part. Therefore, the endresult is sleek futuristic design that affords the user to position themselves awkwardly to gain access to the virtual promise of immersion and freedom.
 
+![1R0A2664](https://user-images.githubusercontent.com/92052904/174796579-62b4227c-c12a-494e-b88f-6e3ffa848008.JPG)
+
+![1R0A2670](https://user-images.githubusercontent.com/92052904/174796615-c04300d4-eddf-4cdd-acef-3b78e258ddb2.JPG)
+
+![1R0A2677](https://user-images.githubusercontent.com/92052904/174796631-0d9595fe-3470-4683-9f5c-5fe92fefa93a.JPG)
+
+![IMG_8243](https://user-images.githubusercontent.com/92052904/174797614-d5b12925-b788-478c-a68f-054141a149c8.JPG)
+
+![IMG_8269](https://user-images.githubusercontent.com/92052904/174797667-10410da9-4723-489b-a6dd-881e18cbb6e2.jpg)
+
 Lastly, I would like to reiterate and highlight the efforts of every member in making this project happen. Beyond my tasks and this applies to each one of us, we all helped each other and contributed in the decision making, conceptual development, assembling the work and transporting it (on foot, since they wouldn't let us on any bus with huge wooden boards and boxes) from CCI to the exhibition space.
