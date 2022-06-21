@@ -60,3 +60,5 @@ The elements of the stations were created using plywood carved out using the las
 ![IMG_8243](https://user-images.githubusercontent.com/92052904/174797614-d5b12925-b788-478c-a68f-054141a149c8.JPG)
 
 Lastly, I would like to reiterate and highlight the efforts of every member in making this project happen. Beyond my tasks and this applies to each one of us, we all helped each other and contributed in the decision making, conceptual development, assembling the work and transporting it (on foot, since they wouldn't let us on any bus with huge wooden boards and boxes) from CCI to the exhibition space.
+
+![3F3E5693-A4D5-452D-ADBB-31701A64DF5C_1_105_c](https://user-images.githubusercontent.com/92052904/174798221-62900976-eaa2-4d30-b7fb-5d62f1458adb.jpg)
