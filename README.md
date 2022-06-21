@@ -44,6 +44,7 @@ The creation of all materials and particle systems consisted of a rigirous proce
 
 <img width="1792" alt="Screenshot 2022-06-21 at 1 40 35 pm" src="https://user-images.githubusercontent.com/92052904/174801382-205b8be3-a922-44e6-8022-613a2c4dcd51.png">
 
+> Niagara Particle Systems
 
 (Image of particle system, material blueprints)
 
