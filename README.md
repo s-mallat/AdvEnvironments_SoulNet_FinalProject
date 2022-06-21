@@ -24,10 +24,12 @@ This project was brought to life with the effort and hardwork of **seven** aweso
 
 For the final iteration of this installation, I was involved in both the physical and the virtual development. To start with the unreal part of the project, I was responsible for creating the graphics and overall design of the game. I created the materials, particle systems, modeled the game objects and animated them on Blender. The challenge of creating the graphics and effects was achieving a design that is impressive enough to keep the user engaged, even addicted to the gameplay. The user engagement was a very important factor through out the decision making process of putting the graphics together and what kind of mood and vibe the game communicated. This is because the installation forces users to position themselves in awkward and uncomfortable body positions to play and interact with the virtual game. Therefore, the actual gameplay needed to be powerful and smooth to keep them playing and engaged. In other words, it was a situation of whether or not the user is willing to give up comfort to keep playing and make more pretty graphics. From the response we had at the show, the answer is yes, most people are more than willing to give up comfort and restrain their movements to keep exploring the virtual world. 
 
+> Game Graphics
 <img width="1000" alt="Screenshot 2022-06-21 at 12 53 47 pm" src="https://user-images.githubusercontent.com/92052904/174793050-60299211-a99a-43e9-ad76-987d8d14c3d7.png">
 
 As our game had only one camera angle / perspective, I wanted to add a layer dimensionality to an otherwise flat two-dimensional world. To delve slightly deeper into the technical side of things, I would say the biggest game changer for the graphics of the game was the introduction of the dynamic trail or the dynamic ribbon system. Through various iterations and after numerous tutorials on particle systems, creating and merging materials, I was able to create dynamic materials that animate overtime to avoid a static and flat look. The trail is an example of that dimensionality and dynamic design as it is constantly shifting, animating, and gracefully flowing around the space the longer the user engages with the installation. 
 
+> Trail Particle System Progression
 <img width="1000" alt="Screenshot 2022-06-21 at 12 55 26 pm" src="https://user-images.githubusercontent.com/92052904/174793451-44e97401-7c14-4c90-8efb-3abc0cca33f1.png">
 
 <img width="1000" alt="Screenshot 2022-06-21 at 12 55 36 pm" src="https://user-images.githubusercontent.com/92052904/174793465-671bdfd7-f6c1-4446-b8fe-bf0c71dfd752.png">
@@ -42,6 +44,7 @@ The creation of all materials and particle systems consisted of a rigirous proce
 
 Moving on to the physical part of the installation, I was responsible for designing and building the hand stations, as well as designing the structure of the wiring from laptop and projector to six different stations. The overall design of the stations went through different iteratives stages while building upon the idea of affordances and the relationship between the stations and the users, as well as how effective the physical design is at communicating the project goals. 
 
+> Stations Final Renders from Blender
 <img width="1152" alt="Screenshot 2022-05-23 at 8 32 46 pm" src="https://user-images.githubusercontent.com/92052904/174796351-e86953ed-9a7c-4b64-a963-d15f11ea132f.png">
 
 <img width="1153" alt="Screenshot 2022-05-23 at 8 35 00 pm" src="https://user-images.githubusercontent.com/92052904/174796378-ba9b4418-f20e-4495-93dd-83aebc5525a0.png">
@@ -52,6 +55,7 @@ The elements of the stations were created using plywood carved out using the las
 
 Lastly, I would like to reiterate and highlight the efforts of every member in making this project happen. Beyond my tasks and this applies to each one of us, we all helped each other and contributed in the decision making, conceptual development, assembling the work and transporting it (on foot, since they wouldn't let us on any bus with huge wooden boards and boxes) from CCI to the exhibition space.
 
+> Installation Final Build at The Show
 
 ![1R0A2664](https://user-images.githubusercontent.com/92052904/174796579-62b4227c-c12a-494e-b88f-6e3ffa848008.JPG)
 
@@ -60,5 +64,7 @@ Lastly, I would like to reiterate and highlight the efforts of every member in m
 ![1R0A2677](https://user-images.githubusercontent.com/92052904/174796631-0d9595fe-3470-4683-9f5c-5fe92fefa93a.JPG)
 
 ![IMG_8243](https://user-images.githubusercontent.com/92052904/174797614-d5b12925-b788-478c-a68f-054141a149c8.JPG)
+
+> The AWESOME Team
 
 ![3F3E5693-A4D5-452D-ADBB-31701A64DF5C_1_105_c](https://user-images.githubusercontent.com/92052904/174799326-43f9a875-d0d2-41ef-8fe1-7060fd134dc3.jpg)
