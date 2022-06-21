@@ -8,8 +8,8 @@ SoulNet is an interactive installation created by **Adam Code, Alexandre Tarek, 
 
 ---
 
-# Link To Code Repository: https://github.com/adamdavidcole/unreal-free-float-game
-The above link contains all the unreal files, arduino and processing code.
+# Link To Code Repository: <br> https://github.com/adamdavidcole/unreal-free-float-game
+## The above link contains all the unreal files, arduino and processing code.
 
 ## Personal Write-up
 
