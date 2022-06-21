@@ -40,11 +40,21 @@ As our game had only one camera angle / perspective, I wanted to add a layer dim
 
 The creation of all materials and particle systems consisted of a rigirous process of layering different textures, materials on top of other materials, and merging multiple particle systems to create the effects needed. The challenge in this part was twofolds, the first was the memory issues and making sure that the overall project files don't exceed a certain size since this is a multi-faceded project with many layers. This was an issue for us mostly because all team members owned a macbook with exception to one person who operated a windows machine. Furthermore, the memory restraint affected my decisions on what kind of game objects to model, how many faces and vertices they have and how to best animate them in Blender. The second challenge was getting the files to load and compile correctly on different machines. I originally used many materials from the epic games marketplace but quickly had to remove all of them and replace them with starter content textures and build my own materials on top of them to make the migration process smoother and avoid running into issues later on.
 
+> Game Object Animated in Blender
+
+<img width="1792" alt="Screenshot 2022-06-21 at 1 40 35 pm" src="https://user-images.githubusercontent.com/92052904/174801382-205b8be3-a922-44e6-8022-613a2c4dcd51.png">
+
+
 (Image of particle system, material blueprints)
 
 Moving on to the physical part of the installation, I was responsible for designing and building the hand stations, as well as designing the structure of the wiring from laptop and projector to six different stations. The overall design of the stations went through different iteratives stages while building upon the idea of affordances and the relationship between the stations and the users, as well as how effective the physical design is at communicating the project goals. 
 
-> Stations Final Renders from Blender
+> Station To-Scale in Blender
+
+![InstallationDesign12](https://user-images.githubusercontent.com/92052904/174800514-0be5bc76-1cea-475a-a569-75f6051bc322.jpeg)
+
+
+> Stations Final Renders in Blender
 <img width="1152" alt="Screenshot 2022-05-23 at 8 32 46 pm" src="https://user-images.githubusercontent.com/92052904/174796351-e86953ed-9a7c-4b64-a963-d15f11ea132f.png">
 
 <img width="1153" alt="Screenshot 2022-05-23 at 8 35 00 pm" src="https://user-images.githubusercontent.com/92052904/174796378-ba9b4418-f20e-4495-93dd-83aebc5525a0.png">
