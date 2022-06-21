@@ -8,7 +8,7 @@ SoulNet is an interactive installation created by **Adam Code, Alexandre Tarek, 
 
 ## Disclaimer
 
-This project was brought to life with the effort and hardwork of **seven** awesome people at CCI, UAL. This repository will include **only the write up of my contribution in this project and personal documentation of my process.** The code and project files are not included in this repo, but I have attached a link below to the repo that contains all the code and project files for a holistic view of every member's efforts to bring this project to life.
+This project was brought to life with the effort and hardwork of **seven** awesome people at CCI, UAL. This repository will include **only the write up of my contribution in this project and personal documentation of the process.** The code and project files are not included in this repo, but I have attached a link below to the repo that contains all the code and project files for a holistic view of every member's efforts to bring this project to life.
 
 ---
 
@@ -21,4 +21,3 @@ This project was brought to life with the effort and hardwork of **seven** aweso
 ---
 
 ## Personal Write-up
-
