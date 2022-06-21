@@ -76,6 +76,6 @@ Lastly, I would like to reiterate and highlight the efforts of every member in m
 
 ![IMG_8243](https://user-images.githubusercontent.com/92052904/174797614-d5b12925-b788-478c-a68f-054141a149c8.JPG)
 
-> The AWESOME Team
+> The AWESOME Team!
 
 ![3F3E5693-A4D5-452D-ADBB-31701A64DF5C_1_105_c](https://user-images.githubusercontent.com/92052904/174799326-43f9a875-d0d2-41ef-8fe1-7060fd134dc3.jpg)
