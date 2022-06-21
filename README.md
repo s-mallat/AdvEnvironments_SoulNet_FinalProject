@@ -2,5 +2,6 @@
 
 # Creative Making: Advanced Visualisations <br> & Computational Environments
 
-**SoulNet -- **
-is an interactive installation created by **Adam Code, Alexandre Tarek,  Lea Ho, Lexin Zhou, Orsolya Szantho, Sali Mallat, and Sixiong Sheng.**  It is a critical exploration of the relationship between our engagement with virtual worlds and our physical freedom. The interactive installation stages a fictional demo set in the near future, asking us to consider which parts of our physical reality are we willing to give up in order to experience a promised virtual paradise.
+## SoulNet
+
+Is an interactive installation created by **Adam Code, Alexandre Tarek,  Lea Ho, Lexin Zhou, Orsolya Szantho, Sali Mallat, and Sixiong Sheng.**  It is a critical exploration of the relationship between our engagement with virtual worlds and our physical freedom. The interactive installation stages a fictional demo set in the near future, asking us to consider which parts of our physical reality are we willing to give up in order to experience a promised virtual paradise.
